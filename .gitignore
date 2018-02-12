@@ -297,3 +297,5 @@ __pycache__/
 *.btm.cs
 *.odx.cs
 *.xsd.cs
+/Power of a Jedi/Power of a Jedi.vcxproj.filters
+/Power of a Jedi/Power of a Jedi.vcxproj
