@@ -33,5 +33,4 @@ private:
 	void MakeSet(void);
 };
 
-
 #endif // !__INCLUDE_DISJOINT_SET__
