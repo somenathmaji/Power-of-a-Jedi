@@ -1,6 +1,8 @@
 #include "BTree.h"
 
-// default constructor
+/*
+default constructor
+*/
 BTreeNode::BTreeNode(int minDegree, bool isLeaf = true)
 {
 	t = minDegree;					// min degree
@@ -9,7 +11,9 @@ BTreeNode::BTreeNode(int minDegree, bool isLeaf = true)
 	key = new int[2 * t - 1];		// (2t - 1) maximum keys it can hold
 	child = new BTreeNode*[2 * t];	// 2t maximum child it can link
 }
-// default destructor
+/*
+default destructor
+*/
 BTreeNode::~BTreeNode()
 {
 	delete child;
