@@ -14,7 +14,7 @@ enum Colors { WHITE, GREY, BLACK };
 
 /*****************************************************/
 // Class Vertex. Represents Vertex of a Graph.
-//template <class T>
+//template <class T> --TODO
 class Vertex
 {
 private:

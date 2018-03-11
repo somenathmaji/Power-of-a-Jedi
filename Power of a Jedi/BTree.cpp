@@ -119,7 +119,7 @@ bool BTreeNode::InsertNodeNonFull(int k)
 			key[i + 1] = key[i];	// shift the keys, make space
 			i--;
 		}
-		key[i+1] = k;
+		key[i + 1] = k;
 		noOfKeys += 1;
 		return true;
 	}

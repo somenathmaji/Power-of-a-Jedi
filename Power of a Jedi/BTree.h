@@ -12,7 +12,7 @@
 class BTreeNode
 {
 private:
-	BTreeNode **child;				// list of child nodes in the node
+	BTreeNode * *child;				// list of child nodes in the node
 	int *key;						// list of keys in the node
 	int noOfKeys;					// total number of keys in this node, count current number of keys
 	int t;							// minimum degree. (t-1) minimum keys and t minimum childs, (2t-1) maximum keys and 2t maximum childs
@@ -65,7 +65,7 @@ public:
 	*/
 	~BTree();
 	/*
-	
+
 	*/
 	void Traverse();
 	/*

@@ -110,4 +110,8 @@ void Graph::BFSearch(int s)
 	std::cout << std::endl;
 }
 
+void Graph::DFSearch(int s)
+{
+}
+
 /*****************************************************/

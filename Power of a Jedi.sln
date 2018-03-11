@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.27004.2009
+VisualStudioVersion = 15.0.27428.2002
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Power of a Jedi", "Power of a Jedi\Power of a Jedi.vcxproj", "{9C0DC62D-9A67-4A18-9DFF-EF24B7FD10A4}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Power of a Jedi", "Power of a Jedi\Power of a Jedi.vcxproj", "{086CCA6D-A65D-468A-81CB-004A4E562020}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,19 +13,19 @@ Global
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{9C0DC62D-9A67-4A18-9DFF-EF24B7FD10A4}.Debug|x64.ActiveCfg = Debug|x64
-		{9C0DC62D-9A67-4A18-9DFF-EF24B7FD10A4}.Debug|x64.Build.0 = Debug|x64
-		{9C0DC62D-9A67-4A18-9DFF-EF24B7FD10A4}.Debug|x86.ActiveCfg = Debug|Win32
-		{9C0DC62D-9A67-4A18-9DFF-EF24B7FD10A4}.Debug|x86.Build.0 = Debug|Win32
-		{9C0DC62D-9A67-4A18-9DFF-EF24B7FD10A4}.Release|x64.ActiveCfg = Release|x64
-		{9C0DC62D-9A67-4A18-9DFF-EF24B7FD10A4}.Release|x64.Build.0 = Release|x64
-		{9C0DC62D-9A67-4A18-9DFF-EF24B7FD10A4}.Release|x86.ActiveCfg = Release|Win32
-		{9C0DC62D-9A67-4A18-9DFF-EF24B7FD10A4}.Release|x86.Build.0 = Release|Win32
+		{086CCA6D-A65D-468A-81CB-004A4E562020}.Debug|x64.ActiveCfg = Debug|x64
+		{086CCA6D-A65D-468A-81CB-004A4E562020}.Debug|x64.Build.0 = Debug|x64
+		{086CCA6D-A65D-468A-81CB-004A4E562020}.Debug|x86.ActiveCfg = Debug|Win32
+		{086CCA6D-A65D-468A-81CB-004A4E562020}.Debug|x86.Build.0 = Debug|Win32
+		{086CCA6D-A65D-468A-81CB-004A4E562020}.Release|x64.ActiveCfg = Release|x64
+		{086CCA6D-A65D-468A-81CB-004A4E562020}.Release|x64.Build.0 = Release|x64
+		{086CCA6D-A65D-468A-81CB-004A4E562020}.Release|x86.ActiveCfg = Release|Win32
+		{086CCA6D-A65D-468A-81CB-004A4E562020}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {C4519A0A-926E-4794-B5B3-21300E801DF9}
+		SolutionGuid = {E31A9178-B191-4BC4-9A81-900CF519BACC}
 	EndGlobalSection
 EndGlobal

@@ -15,8 +15,8 @@ Default destructor
 */
 DisjointSet::~DisjointSet()
 {
-	delete []rank;
-	delete []parent;
+	delete[]rank;
+	delete[]parent;
 }
 /*
 Finds the representative of it's set
